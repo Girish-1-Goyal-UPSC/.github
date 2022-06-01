@@ -32,3 +32,4 @@
 5. Detailed Syllabus
 6. Downloadable maps in pdf format
 7. Previous year question papers Prelims/Mains
+8. Quick revision notes for prelims
