@@ -22,7 +22,8 @@
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/girishkuma_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/girishkuma_123" height="30" width="40" /></a>
 </p>
 
-**Hello to all aspirants if you have any topic and any thing to upload here then please let me know the topic or if you can access the organization repository then make the new repository and put all the data accordingly there and update all the tags in the content.**
+**Hello to all aspirants if you have any topic and any thing to upload here then please let me know the topic or if you can access the organization repository then make the new repository and put all the data accordingly there and update all the tags in the content.
+and if you have any query regarding to anything then go into the discussion tab and post your problem there**
 
 **What you will get here -:**
 1. All the maps related documents and content
