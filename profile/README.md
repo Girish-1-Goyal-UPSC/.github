@@ -31,3 +31,4 @@
 4. ARC reports
 5. Detailed Syllabus
 6. Downloadable maps in pdf format
+7. Previous year question papers Prelims/Mains
