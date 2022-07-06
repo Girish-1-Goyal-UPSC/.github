@@ -4,13 +4,14 @@
 
 - 🔭 I’m currently working on **Economics, Geography, Ethics, Maps**
 
-- 🌱 I’m currently learning **Structure of Constitution Of India**
+- 🌱 I’m currently learning **All NCERT Books from 6th to 12th**
 
-- 📝 I regularly write articles on [https://currents.google.com/u/2/](https://currents.google.com/u/2/)
-
-- 💬 Ask me about **World and India map, Straits**
+- 💬 Ask me about **Anything ! what You Want?**
 
 - 📫 How to reach me **girishgoyal15144214@gmail.com**
+- 📫 Wisit My Website **https://girishgoyal.netlify.app**
+
+- Fill the Sheet accordingly **https://bit.ly/3OLDQif**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,3 +35,4 @@ and if you have any query regarding to anything then go into the discussion tab 
 6. Downloadable maps in pdf format
 7. Previous year question papers Prelims/Mains
 8. Quick revision notes for prelims
+9. Sheets and Stratagy
