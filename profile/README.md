@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Girish Kumar Goyal</h1>
 <h3 align="center">A Civil Services Aspirant | 2022</h3>
 
-- 🔭 I’m currently working on **Economics, Geography, Ethics, Maps**
+- 🔭 **Economics, Geography, Ethics, Maps**
 
-- 🌱 I’m currently learning **All NCERT Books from 6th to 12th**
+- 🌱 **All NCERT Books from 6th to 12th**
 
-- 💬 Ask me about **Anything ! what You Want?**
+- 💬 **Anything ! what You Want?**
 
 - 📫 How to reach me **girishgoyal15144214@gmail.com**
 - 📫 Wisit My Website **https://girishgoyal.netlify.app**
