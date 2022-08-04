@@ -36,3 +36,7 @@ and if you have any query regarding to anything then go into the discussion tab 
 7. Previous year question papers Prelims/Mains
 8. Quick revision notes for prelims
 9. Sheets and Stratagy
+
+[Download Syllabus](https://github.com/Girish-1-Goyal-UPSC/Syllabus-UPSC/blob/main/Notif-CSP-22-engl-020222F.pdf)
+
+
